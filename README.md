@@ -1,2 +1,7 @@
 # nlw-experts
-HTML + CSS + JAVASCRIPT
+# Curso feito pela Nlw Experts, primeira experiência com essas ferramentas.
+
+-HTML
+-CSS
+-JavaScript
+-Github
